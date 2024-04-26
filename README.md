@@ -9,7 +9,7 @@ A bonus calculator based on many input parameters of some company
 # Inicial Notes
 ### Input data
 
-Horas trabalhadas (logadas no jira)
+- Horas trabalhadas (logadas no jira)
 - Custo da pessoa
 - Receita sobre aquela pessoa
 - Porcentagem A
