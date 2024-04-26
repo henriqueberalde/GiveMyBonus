@@ -3,8 +3,8 @@ A bonus calculator based on many input parameters of some company
 
 # TODO
 - [ ] Translate README to english
-- [ ] Make a simple console app that get all input data from the correct format
-- [ ] Simulate some calculation just to organizre the out put (explanation of the calculations)
+- [ ] Make a simple console app that gets all input data from the correct format
+- [ ] Simulate some calculation just to organizre the output (explanation of the calculations)
 
 # Inicial Notes
 ### Input data
